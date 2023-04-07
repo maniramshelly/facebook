@@ -92,7 +92,7 @@ a h5 {
   background: #fff;
 }
 footer {
-  width: 70%;
+  width: 75%;
   margin: auto;
 }
 footer ul {
@@ -103,7 +103,7 @@ footer ul {
   border-bottom: 1px solid #b2b3b6;
 }
 footer li {
-  margin: 5px 5px;
+  margin: 5px 7px;
   font-size: smaller;
   color: #808183;
   cursor: pointer;
